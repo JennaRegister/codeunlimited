@@ -1,7 +1,7 @@
 # #CodeUnlimited
 
 
-#### This is the learning library for #CodeUnlimited. Here, you will find lots of handy functions, game building, data handling, website making and tutorials.We hope that our students will eventually be able to contribute to this library!
+#### This is the learning library for #CodeUnlimited. Here, you will find lots of handy functions, game building, data handling, website making and tutorials. We hope that our students will eventually be able to contribute to this library!
 
 ## Code Basics
 - print
